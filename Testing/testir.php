@@ -4,7 +4,7 @@ namespace App\Testing;
 //require_once('Second.php');
 if (class_exists('Second'))
 {
-    echo 'yes';
+    echo 'yes11111111';
 }
 else{
     echo 'no';
