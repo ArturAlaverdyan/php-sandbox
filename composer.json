@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "C:/Users/alave/PhpstormProjects/untitled3"
+    }
+  },
+  "require": {
+    "": ""
+  }
+}

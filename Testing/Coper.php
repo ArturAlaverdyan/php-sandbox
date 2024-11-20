@@ -2,7 +2,7 @@
 
 namespace App\Testing;
 
-class Coper
+class gCoper
 {
 public static function run(){
     return 5;

@@ -1,0 +1,17 @@
+[33mcommit 86b64c2c87ac657da760b0053c60ae44295c426d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Artur <alaverdyan.oa@gmail.com>
+Date:   Sun Nov 17 23:02:48 2024 +0300
+
+    testing
+
+[33mcommit d0a304901bd5eb8e699364495394adc66f9f64b8[m
+Author: Artur <alaverdyan.oa@gmail.com>
+Date:   Sun Nov 17 22:59:14 2024 +0300
+
+    feat(study): implement alg
+
+[33mcommit b7e741294d6138394bd425975dddb7c6b9e88c50[m
+Author: Artur <alaverdyan.oa@gmail.com>
+Date:   Sun Nov 17 22:47:07 2024 +0300
+
+    feat(sort): implement quicksort alg
